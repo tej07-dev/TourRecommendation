@@ -1,0 +1,79 @@
+{
+  "user_id": 1,
+  "optimize": false,
+  "transport_mode": "driving",
+  "waypoints": [
+    {
+      "place_id": 1,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "name": "Cubbon Park",
+      "order": 1,
+      "visit_duration_minutes": 60,
+      "popularity_score": 85
+    },
+    {
+      "place_id": 2,
+      "latitude": 12.9600,
+      "longitude": 77.6090,
+      "name": "Lalbagh",
+      "order": 2,
+      "visit_duration_minutes": 90,
+      "popularity_score": 90
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "user_id": 1,
+  "optimize": true,
+  "transport_mode": "driving",
+  "waypoints": [
+    {
+      "place_id": 1,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "name": "Cubbon Park",
+      "order": 1,
+      "visit_duration_minutes": 60,
+      "popularity_score": 85
+    },
+    {
+      "place_id": 2,
+      "latitude": 12.9600,
+      "longitude": 77.6090,
+      "name": "Lalbagh Botanical Garden",
+      "order": 2,
+      "visit_duration_minutes": 90,
+      "popularity_score": 90
+    },
+    {
+      "place_id": 3,
+      "latitude": 12.9750,
+      "longitude": 77.6030,
+      "name": "Vidhana Soudha",
+      "order": 3,
+      "visit_duration_minutes": 45,
+      "popularity_score": 80
+    }
+  ]
+}
