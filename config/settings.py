@@ -59,7 +59,7 @@ class Settings(BaseSettings):
     GOOGLE_PLACES_API_KEY: str = ""
     YOUTUBE_API_KEY: str = ""
     OPENWEATHER_API_KEY: str = ""
-    YOUTUBE_API_KEY: str = "AIzaSyCTjjIAjyj2n2ib3YMnS19IpM-WXJBTTdc"
+    YOUTUBE_API_KEY: str = ""
     OPENWEATHER_API_KEY: str = "YOUR_OPENWEATHER_API_KEY"
     
     # YouTube Settings
